@@ -1,4 +1,4 @@
-# RAG PDF Assistant
+# RAG - Chat with PDF
 
 A comprehensive PDF processing and question-answering system using RAG (Retrieval-Augmented Generation) with Groq LLM.
 
