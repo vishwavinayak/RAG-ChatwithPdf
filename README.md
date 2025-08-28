@@ -22,7 +22,7 @@ A comprehensive PDF processing and question-answering system using RAG (Retrieva
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd RAG
+cd RAG-ChatwithPdf
 
 # Create virtual environment
 python -m venv venv
